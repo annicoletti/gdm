@@ -1,0 +1,11 @@
+O executavél requer  o JDK 11 instalado no computador. Baixe  e instale
+
+https://www.oracle.com/br/java/technologies/javase/jdk11-archive-downloads.html
+
+
+
+CÓDIGO FONTE ENCONTRA-SE NA PASTA:
+
+GDMComercial 0.7.3-tutor 
+
+use Netbeans para editar
